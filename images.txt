@@ -1,6 +1,8 @@
 nginx
 #支持私库
 xhofe/alist:latest
+nieaowei/campus_network_unlock:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 siyuan
+python:alpine3.19
